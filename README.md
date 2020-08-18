@@ -19,20 +19,22 @@ Talk to me about
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/abdulahadsiddiqui11/" target="_blank">
-  <img align="left" alt="Abdul Ahad's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/shaik-afroz-449b60199/" target="_blank">
+  <img align="left" alt="Shaik's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/@Shaikafroz99081">
+  <img align="left" alt="Shaik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.hackerrank.com/shaik_afroz_" target="_blank">
+  <img align="left" alt="Shaiks's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
 
-<a href="https://www.hackerrank.com/xlr8er?hr_r=1" target="_blank">
-  <img align="left" alt="Abdul Ahad's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+<a href="https://www.instagram.com/shaik_afroz_/" target="_blank">
+  <img align="left" alt="Shaik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.instagram.com/abdulahadsiddiqui11/" target="_blank">
-  <img align="left" alt="Abdul Ahad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://www.facebook.com/abdulahadsiddiqui11" target="_blank">
-  <img align="left" alt="Abdul Ahad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://t.me/@king1430">
+  <img align="left" alt="Shaik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <br />
