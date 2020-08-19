@@ -1,8 +1,8 @@
-name: GitHub - Activity - Readme
+name: Update README
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/checkout@v2
       - uses: shaikafroz016/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
