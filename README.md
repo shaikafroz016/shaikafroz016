@@ -1,9 +1,14 @@
-### Hi there, I'm Shaik Afroz 👋
+## Shaik Afroz 
+<p>
+  <em>
+    Hi there 👋, I'm <b>Shaik Afroz</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>computer science</b>.I am a <b>software developer</b> with robust    <b>problem-solving</b> skills and proven experience in creating and designing software in a test-driven environment, and developing <b>web applications</b>, creating       technology to elevate people.
+  </em>
+</p>
 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikafroz0016@gmail.com)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## 👯 Communities
 - Facebook Developer Circle 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 
 ## ⚡ Technologies
@@ -59,17 +64,16 @@ Talk to me about
 
 <br />
 <br />
-
 ---
 
-
-
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary><strong>⚡ My Github Stats</strong></summary>
+  <br>
+  
+  [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=shaikafroz016&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/shaikafroz016)&nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafroz016&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/shaikafroz016)
 
-  <img align="center" alt="Shaik Afroz Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shaikafroz016&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" />
+</details>
 
-</details
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafroz016&theme=tokyonight&layout=compact)](https://github.com/shaikafroz016/github-readme-stats)
+---
 
