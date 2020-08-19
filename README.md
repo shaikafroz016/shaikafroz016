@@ -1,8 +1,9 @@
 ## Shaik Afroz 
+
 <p>
-  <em>
+  <i>
     Hi there 👋, I'm <b>Shaik Afroz</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>computer science</b>.I am a <b>software developer</b> with robust    <b>problem-solving</b> skills and proven experience in creating and designing software in a test-driven environment, and developing <b>web applications</b>, creating       technology to elevate people.
-  </em>
+  </i>
 </p>
 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikafroz0016@gmail.com)
@@ -64,7 +65,7 @@ Talk to me about
 
 <br />
 <br />
----
+
 
 <details>
   <summary><strong>⚡ My Github Stats</strong></summary>
